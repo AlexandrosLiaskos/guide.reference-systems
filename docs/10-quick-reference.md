@@ -248,4 +248,4 @@ Smith, J. (2024) Title of page. Available at: https://www.example.com (Accessed:
 
 ---
 
-*Previous: [Bluebook Style](09-bluebook-style.md)*
+*Previous: [Bluebook Style](09-bluebook-style.md) | Next: [Mendeley Guide](11-mendeley-guide.md)*

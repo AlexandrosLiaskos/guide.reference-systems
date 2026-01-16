@@ -248,4 +248,4 @@ Mendeley is a free reference manager that helps you organize research, collabora
 
 ---
 
-*Next: [Microsoft Word Citations Guide](12-word-guide.md)*
+*Previous: [Quick Reference](10-quick-reference.md) | Next: [Microsoft Word Citations](12-word-guide.md)*
