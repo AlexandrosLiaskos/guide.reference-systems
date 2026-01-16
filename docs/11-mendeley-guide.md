@@ -68,6 +68,34 @@ Mendeley Desktop is a free reference manager that helps you organize research, c
 2. Paste DOI, PMID, or ArXiv ID
 3. Click search icon - metadata auto-fills
 
+### ⭐ Best Practice: DOI Import (Recommended)
+
+**For the most reliable citations, always use DOI import:**
+
+1. Find the DOI of your source (usually on the article page or PDF)
+2. Add via DOI as described above
+3. **Always verify the result** - check all fields are correct:
+   - Author names spelled correctly
+   - Title is complete
+   - Year, volume, issue, pages are accurate
+   - Journal name is correct
+4. Make manual corrections if needed
+
+> **Why DOI?** DOI lookup retrieves metadata directly from publishers' databases, making it the most accurate import method. Browser importers and PDF extraction can miss or misread information.
+
+---
+
+## 💡 AI Assistance for Citations
+
+**Google AI Studio** (and similar AI tools) can help with citations:
+
+- **Verify citation format** - Paste your citation and ask if it follows APA/MLA/etc. correctly
+- **Generate citations** - Provide source details and request proper formatting
+- **Fix errors** - AI can identify and correct common citation mistakes
+- **Convert between styles** - Transform citations from one style to another
+
+> **Tip:** AI models are trained on citation formats and can be very accurate. Always double-check the output against official style guides for final verification.
+
 ---
 
 ## Organizing Your Library
