@@ -10,13 +10,18 @@ Mendeley Desktop is a free reference manager that helps you organize research, c
 
 ### Create a Free Account
 
+**An Elsevier account is required** (Mendeley is owned by Elsevier):
+
 1. Go to [mendeley.com](https://www.mendeley.com)
 2. Click "Create a free account"
-3. **Recommended:** Use your institutional/academic email
-   - Many universities offer institutional access
-   - Sign in via "Sign in via your institution" option
-   - Search for your university and use your academic credentials
-4. If no institutional access, register with any email
+3. Register with your email (institutional or personal)
+4. Complete account setup
+
+**If your institution has Elsevier access:**
+- After creating your account, you can link it to your institution
+- Go to account settings → "Sign in via your institution"
+- Search for your university and connect with academic credentials
+- This enables additional features and storage
 
 ### Installation
 
