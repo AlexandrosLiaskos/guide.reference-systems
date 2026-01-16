@@ -1,20 +1,32 @@
-# Mendeley Reference Manager Guide
+# Mendeley Desktop Guide
 
 ## Overview
 
-Mendeley is a free reference manager that helps you organize research, collaborate, and generate citations and bibliographies.
+Mendeley Desktop is a free reference manager that helps you organize research, collaborate, and generate citations and bibliographies.
 
 ---
 
 ## Getting Started
 
+### Create a Free Account
+
+1. Go to [mendeley.com](https://www.mendeley.com)
+2. Click "Create a free account"
+3. **Recommended:** Use your institutional/academic email
+   - Many universities offer institutional access
+   - Sign in via "Sign in via your institution" option
+   - Search for your university and use your academic credentials
+4. If no institutional access, register with any email
+
 ### Installation
-1. Download from [mendeley.com](https://www.mendeley.com)
-2. Create a free account
-3. Install desktop app and browser extension
+
+1. Download Mendeley Desktop: [Download Link (Windows)](https://desktop-download.mendeley.com/download/Mendeley-Desktop-1.19.3-win32.exe)
+2. Run the installer
+3. Sign in with your Mendeley account
+4. Install the browser extension (prompted during setup)
 
 ### Components
-- **Mendeley Reference Manager** - Desktop/web app for organizing
+- **Mendeley Desktop** - Main application for organizing references
 - **Web Importer** - Browser extension to save sources
 - **MS Word Plugin** - Insert citations while writing
 - **Mobile App** - Access library on the go
